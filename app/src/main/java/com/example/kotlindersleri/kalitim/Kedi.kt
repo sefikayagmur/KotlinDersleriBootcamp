@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.nesne_tabanli_programlama.kalitim
+package com.example.kotlindersleri.kalitim
 
 class Kedi : Memeli() {
     override fun sesCikar() {

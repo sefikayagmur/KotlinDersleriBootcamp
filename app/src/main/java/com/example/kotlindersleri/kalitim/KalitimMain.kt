@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.nesne_tabanli_programlama.kalitim
+package com.example.kotlindersleri.kalitim
 
 fun main(){
     val hayvan= Hayvan()

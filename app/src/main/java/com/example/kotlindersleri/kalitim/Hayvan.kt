@@ -1,4 +1,4 @@
-package com.example.kotlindersleri.nesne_tabanli_programlama.kalitim
+package com.example.kotlindersleri.kalitim
 
  open class Hayvan {// başka sınıflarda eklemek istiyorsak open eklicez
  open fun  sesCikar(){
